@@ -17,7 +17,7 @@ I am Micheal Kwame Awuku, also known as **Mikey Genius**: a technology generalis
 
 ### About Me
 
-- Systems Analyst at **KNUST-UITS**, working across infrastructure, systems, support, and service operations.
+- Computer Scientists, Quantum Computing, Systems Analyst researcher nmeritus working across infrastructure, systems, support, and service operations.
 - Founder and builder at **Mikey Genius Group**, developing practical technology products and digital solutions.
 - I design, integrate, and improve systems across ICT infrastructure, networks, VoIP, PBX, IVR, contact centers, software, and automation.
 - I enjoy turning complex operational needs into secure, reliable, and useful technology.
