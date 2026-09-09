@@ -2,9 +2,9 @@
 
 # Hi, I'm Micheal Kwame Awuku
 
-**Student | Aspiring Software Developer | Technology Enthusiast**
+**IT Professional | Cloud & Cybersecurity Enthusiast | Technology Generalist**
 
-I am a student building my skills in software development and exploring how technology can solve practical problems.
+I work across the technology landscape, connecting software, infrastructure, security, data, automation, and user support to solve practical problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mikey-Genius)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -17,18 +17,32 @@ I am a student building my skills in software development and exploring how tech
 
 ### About Me
 
-- I am currently studying and developing my programming skills through practical projects.
-- I enjoy learning how websites, applications, and digital tools are designed and built.
-- I am open to collaborating on beginner-friendly projects and open-source opportunities.
-- I am committed to continuous learning and improving one project at a time.
+- I am a multidisciplinary IT practitioner with interests spanning cloud computing, cybersecurity, networking, data, AI, and systems operations.
+- I enjoy understanding technology from end to end: data centers and networks, platforms and software, security operations, automation, and the people who use them.
+- I bring a hands-on, continuous-learning mindset to technical support, service delivery, troubleshooting, and systems improvement.
+- I am open to collaborating on projects that make technology more secure, reliable, intelligent, and accessible.
 
 ### What I'm Working On
 
-- Building projects to strengthen my programming and problem-solving skills.
-- Learning modern development tools and good software engineering practices.
-- Preparing projects that demonstrate my progress and practical experience.
+- Exploring cloud platforms, infrastructure, networking, and data-center operations.
+- Developing practical approaches to cybersecurity, SOC workflows, monitoring, and technical support.
+- Learning how AI, machine learning, robotics, analytics, and automation can improve real-world systems.
+- Connecting systems and processes through integration, documentation, and reliable service delivery.
 
 ---
+
+### Technology Areas
+
+| Area | Focus |
+|------|-------|
+| Cloud and Infrastructure | Cloud computing, data centers, virtualization, systems administration, infrastructure operations |
+| Cybersecurity | Security operations, SOC concepts, monitoring, risk awareness, identity, and secure systems |
+| Networks and Communications | Networking, connectivity, call centers, contact centers, and service operations |
+| Support and Service Delivery | Helpdesk, technical support, IT support, troubleshooting, documentation, and user experience |
+| Software and Computer Science | Software development, programming, computer science, systems design, and IT |
+| Data and Intelligence | Data analytics, artificial intelligence, machine learning, and intelligent applications |
+| Automation and Integration | Systems automation, workflow improvement, APIs, integrations, and process optimization |
+| Emerging Technology | Robotics, connected systems, experimentation, and technology research |
 
 ### Skills and Tools
 
@@ -38,29 +52,35 @@ I am a student building my skills in software development and exploring how tech
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Currently Learning
+### Professional Approach
 
-- Programming fundamentals and problem solving
-- Web development
-- Version control with Git and GitHub
-- Building and documenting practical projects
+- Think across the full technology lifecycle, from infrastructure and security to software and support.
+- Translate technical problems into clear, practical, and maintainable solutions.
+- Automate repetitive work while keeping reliability, security, and people at the center.
+- Keep learning across disciplines and build a strong working understanding of the systems I support.
 
 ### Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Project One | Add a short description of your project here. | [View project](https://github.com/Mikey-Genius) |
-| Project Two | Add a short description of your project here. | [View project](https://github.com/Mikey-Genius) |
-| Project Three | Add a short description of your project here. | [View project](https://github.com/Mikey-Genius) |
+| Project One | Add a cloud, infrastructure, security, or automation project here. | [View project](https://github.com/Mikey-Genius) |
+| Project Two | Add a data, AI, software, networking, or systems project here. | [View project](https://github.com/Mikey-Genius) |
+| Project Three | Add a support, integration, or service-improvement project here. | [View project](https://github.com/Mikey-Genius) |
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### Ask Me About
 
-I am always interested in learning, collaborating, and connecting with other people who are passionate about technology.
+Cloud computing, cybersecurity, SOC operations, networking, data centers, call and contact centers, technical support, helpdesk operations, IT support, software, computer science, AI, machine learning, robotics, data analytics, systems automation, and integration.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mikey-Genius&style=for-the-badge&color=blue)
 
