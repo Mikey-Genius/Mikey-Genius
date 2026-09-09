@@ -2,9 +2,9 @@
 
 # Hi, I'm Micheal Kwame Awuku
 
-**IT Professional | Cloud & Cybersecurity Enthusiast | Technology Generalist**
+**ICT Infrastructure & Network Operations | VoIP & Contact Center Systems | AI, Automation & Cybersecurity**
 
-I work across the technology landscape, connecting software, infrastructure, security, data, automation, and user support to solve practical problems.
+I am Micheal Kwame Awuku, also known as **Mikey Genius**: a technology generalist and systems builder connecting infrastructure, networks, communications, software, AI, security, and automation.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mikey-Genius)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -17,17 +17,17 @@ I work across the technology landscape, connecting software, infrastructure, sec
 
 ### About Me
 
-- I am a multidisciplinary IT practitioner with interests spanning cloud computing, cybersecurity, networking, data, AI, and systems operations.
-- I enjoy understanding technology from end to end: data centers and networks, platforms and software, security operations, automation, and the people who use them.
-- I bring a hands-on, continuous-learning mindset to technical support, service delivery, troubleshooting, and systems improvement.
-- I am open to collaborating on projects that make technology more secure, reliable, intelligent, and accessible.
+- Systems Analyst at **KNUST-UITS**, working across infrastructure, systems, support, and service operations.
+- Founder and builder at **Mikey Genius Group**, developing practical technology products and digital solutions.
+- I design, integrate, and improve systems across ICT infrastructure, networks, VoIP, PBX, IVR, contact centers, software, and automation.
+- I enjoy turning complex operational needs into secure, reliable, and useful technology.
 
 ### What I'm Working On
 
-- Exploring cloud platforms, infrastructure, networking, and data-center operations.
-- Developing practical approaches to cybersecurity, SOC workflows, monitoring, and technical support.
-- Learning how AI, machine learning, robotics, analytics, and automation can improve real-world systems.
-- Connecting systems and processes through integration, documentation, and reliable service delivery.
+- Building IVR, PBX, VoIP, and contact-center integrations, including work around call-center operations.
+- Developing CRM, e-commerce, marketplace, and business systems that connect people, data, and services.
+- Exploring self-hosted AI, NOC automation, infrastructure monitoring, and operational analytics.
+- Working with cloud, Linux, containers, networks, security, and technical support workflows.
 
 ---
 
@@ -43,6 +43,7 @@ I work across the technology landscape, connecting software, infrastructure, sec
 | Data and Intelligence | Data analytics, artificial intelligence, machine learning, and intelligent applications |
 | Automation and Integration | Systems automation, workflow improvement, APIs, integrations, and process optimization |
 | Emerging Technology | Robotics, connected systems, experimentation, and technology research |
+| Sustainable Technology | Solar PV, energy storage, smart infrastructure, and digital transformation |
 
 ### Skills and Tools
 
@@ -60,6 +61,8 @@ I work across the technology landscape, connecting software, infrastructure, sec
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-F05032?style=for-the-badge&logo=asterisk&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Cloud and Infrastructure
 
@@ -67,6 +70,17 @@ I work across the technology landscape, connecting software, infrastructure, sec
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### Communications and Operations
+
+![Issabel PBX](https://img.shields.io/badge/Issabel_PBX-1F2937?style=for-the-badge&logo=voip&logoColor=white)
+![Grandstream](https://img.shields.io/badge/Grandstream_UCM-0B5CAD?style=for-the-badge&logo=telephone&logoColor=white)
+![3CX](https://img.shields.io/badge/3CX-1D4ED8?style=for-the-badge&logo=3cx&logoColor=white)
+![PRTG](https://img.shields.io/badge/PRTG_Monitoring-00A4EF?style=for-the-badge&logo=paessler&logoColor=white)
+![osTicket](https://img.shields.io/badge/osTicket-Support-374151?style=for-the-badge&logo=servicenow&logoColor=white)
 
 #### Security and Networking
 
@@ -81,6 +95,8 @@ I work across the technology landscape, connecting software, infrastructure, sec
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-217346?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Automation](https://img.shields.io/badge/Systems_Automation-6B21A8?style=for-the-badge&logo=zapier&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Professional Approach
 
@@ -88,6 +104,15 @@ I work across the technology landscape, connecting software, infrastructure, sec
 - Translate technical problems into clear, practical, and maintainable solutions.
 - Automate repetitive work while keeping reliability, security, and people at the center.
 - Keep learning across disciplines and build a strong working understanding of the systems I support.
+
+### Systems I Build and Integrate
+
+| Solution | What it connects |
+|----------|------------------|
+| VoIP and Contact Centers | PBX, IVR, call routing, telephony analytics, agents, and customer service workflows |
+| NOC and SOC Automation | Monitoring, alerts, reporting, security operations, and infrastructure response |
+| Business and Marketplace Platforms | CRM, e-commerce, multi-vendor commerce, APIs, and operational data |
+| Intelligent Infrastructure | Local AI, Python automation, containers, network systems, and technical support |
 
 ### Featured Projects
 
@@ -109,7 +134,7 @@ I work across the technology landscape, connecting software, infrastructure, sec
 
 ### Ask Me About
 
-Cloud computing, cybersecurity, SOC operations, networking, data centers, call and contact centers, technical support, helpdesk operations, IT support, software, computer science, AI, machine learning, robotics, data analytics, systems automation, and integration.
+ICT infrastructure, network operations, VoIP, PBX, IVR, contact centers, NOC and SOC workflows, cloud, Linux, Docker, Python automation, AI, machine learning, data analytics, technical support, software, systems integration, and digital transformation.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mikey-Genius&style=for-the-badge&color=blue)
 
