@@ -46,6 +46,8 @@ I work across the technology landscape, connecting software, infrastructure, sec
 
 ### Skills and Tools
 
+#### Software and Systems
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +60,27 @@ I work across the technology landscape, connecting software, infrastructure, sec
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Cloud and Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### Security and Networking
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![SOC Operations](https://img.shields.io/badge/SOC_Operations-B91C1C?style=for-the-badge&logo=security&logoColor=white)
+![Technical Support](https://img.shields.io/badge/Technical_Support-2563EB?style=for-the-badge&logo=googlesupport&logoColor=white)
+
+#### AI, Data and Automation
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-217346?style=for-the-badge&logo=powerbi&logoColor=white)
+![Automation](https://img.shields.io/badge/Systems_Automation-6B21A8?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### Professional Approach
 
@@ -73,6 +96,12 @@ I work across the technology landscape, connecting software, infrastructure, sec
 | Project One | Add a cloud, infrastructure, security, or automation project here. | [View project](https://github.com/Mikey-Genius) |
 | Project Two | Add a data, AI, software, networking, or systems project here. | [View project](https://github.com/Mikey-Genius) |
 | Project Three | Add a support, integration, or service-improvement project here. | [View project](https://github.com/Mikey-Genius) |
+
+---
+
+### Areas of Interest
+
+`Cloud Computing` `Cybersecurity` `SOC` `Networking` `Data Centers` `IT Support` `Helpdesk` `AI` `Machine Learning` `Robotics` `Data Analytics` `Automation` `Systems Integration`
 
 ---
 
